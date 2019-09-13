@@ -54,7 +54,7 @@ class _ExampleFormState extends State<ExampleForm> {
                       appBar: AppBar(
                         titleSpacing: 5.0,
                         title: Text(
-                          'Custom Dropdown Field Example',
+                          'Dropdownfield Example',
                           style: TextStyle(fontSize: 15.0),
                         ),
                         actions: <Widget>[
